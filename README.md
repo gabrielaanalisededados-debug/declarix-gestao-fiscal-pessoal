@@ -108,3 +108,16 @@ Projeto desenvolvido como atividade prática de Excel da [DIO](https://www.dio.m
 ---
 
 ⭐ Projeto desenvolvido para fins educacionais e de portfólio.
+
+## 📂 Arquivos do projeto
+
+O repositório disponibiliza os seguintes materiais:
+
+- **Planilha DECLARIX:** versão aprimorada desenvolvida pela autora.
+- **Planilha original:** modelo de referência disponibilizado pelo professor da atividade.
+- **Documentação técnica:** descrição da estrutura, funcionalidades, recursos utilizados e melhorias implementadas.
+- **Imagens:** capturas de tela para demonstração visual do projeto.
+
+### Documentação técnica
+
+[📥 Baixar documentação técnica do DECLARIX](documentacao/Documentacao_Tecnica_DECLARIX.docx)
