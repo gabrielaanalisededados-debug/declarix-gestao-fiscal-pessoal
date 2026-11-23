@@ -57,3 +57,54 @@ O DECLARIX está organizado em cinco abas:
 - Proteção de planilhas.
 - Organização e visualização de dados.
 - Markdown para documentação.
+
+  ## 🖥️ Demonstração visual
+
+### 1. Painel geral
+![Painel Geral](imagens/01_Painel_Geral.png.png)
+
+### 2. Cadastro do titular
+![Cadastro do Titular](imagens/02_Cadastro_Titular.png.png)
+
+### 3. Informes bancários
+![Informes Bancários](imagens/03_Informes_Bancarios.png.png)
+
+### 4. Registro de rendimentos
+![Registro de Rendimentos](imagens/04_Registro_Rendimentos.png.png)
+
+## 🚀 Evolução do projeto
+
+O DECLARIX foi desenvolvido a partir de uma planilha disponibilizada em uma atividade prática da DIO.
+
+A versão aprimorada apresenta melhorias em relação ao modelo original:
+
+- Criação de uma identidade visual própria.
+- Desenvolvimento de um painel gerencial.
+- Inclusão de indicadores automáticos.
+- Consolidação dos rendimentos por categoria.
+- Criação de gráfico para visualização dos dados.
+- Implementação de menu lateral para navegação.
+- Padronização das validações de dados nos campos de instituições financeiras.
+
+## 📚 Aprendizados
+
+O desenvolvimento deste projeto proporcionou a aplicação prática de conhecimentos em:
+
+- Organização e estruturação de dados.
+- Automatização de cálculos no Excel.
+- Validação e padronização de informações.
+- Criação de indicadores e gráficos.
+- Visualização de dados.
+- Proteção de planilhas.
+- Organização da experiência do usuário.
+- Documentação e versionamento de projetos no GitHub.
+
+  ## 👩‍💻 Autora
+
+**Gabriela Bittencourt**
+
+Projeto desenvolvido como atividade prática de Excel da [DIO](https://www.dio.me/), com melhorias e funcionalidades adicionais implementadas de forma autoral.
+
+---
+
+⭐ Projeto desenvolvido para fins educacionais e de portfólio.
